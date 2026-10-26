@@ -1,4 +1,4 @@
-<a href="https://dscripts.dev"><img src="images/banner.jpg" alt="dScripts - FiveM scripts" width="100%"></a>
+<a href="https://dscripts.dev"><img src="https://raw.githubusercontent.com/Dqrkuss-dev/Dqrkuss-dev/main/images/banner.jpg" alt="dScripts - FiveM scripts" width="100%"></a>
 
 ### dScripts: FiveM scripts for Qbox, QBCore and ESX
 
